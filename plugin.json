@@ -1,11 +1,12 @@
 {
     "ID":"D2D2C23B084D411DB66EE0C79D6C2A7C",
     "ActionKeyword":"en",
-    "Name":"Wox.Plugin.UrlEncode",
+    "Name":"Flow.Plugin.UrlEncode",
     "Description":"urlencode or urldecode a string",
     "Author":"cxfksword",
     "Version":"1.0",
     "Language":"csharp",
     "Website":"https://github.com/cxfksword/Wox.Plugin.UrlEncode",
-    "ExecuteFileName":"Wox.Plugin.UrlEncode.dll"
+    "ExecuteFileName":"Flow.Plugin.UrlEncode.dll",
+    "IcoPath":"Images/app.png"
 }

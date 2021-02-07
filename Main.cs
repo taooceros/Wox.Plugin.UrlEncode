@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 using System.Web;
 using System.Windows;
 using Flow.Launcher.Plugin;
 
-namespace Wox.Plugin.UrlEncode
+namespace Flow.Plugin.UrlEncode
 {
     public class Main : IPlugin
     {
